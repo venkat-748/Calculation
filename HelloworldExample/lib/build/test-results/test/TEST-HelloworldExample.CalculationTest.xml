@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloworldExample.CalculationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-03T07:34:12" hostname="venkat-zstk271" time="0.017">
+  <properties/>
+  <testcase name="Multest()" classname="HelloworldExample.CalculationTest" time="0.013"/>
+  <testcase name="Divtest()" classname="HelloworldExample.CalculationTest" time="0.001"/>
+  <testcase name="Subtest()" classname="HelloworldExample.CalculationTest" time="0.001"/>
+  <testcase name="Addtest()" classname="HelloworldExample.CalculationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
